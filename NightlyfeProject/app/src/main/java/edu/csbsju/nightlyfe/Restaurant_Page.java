@@ -10,4 +10,5 @@ public class Restaurant_Page extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_restaurant_page);
     }
+    //Link the buttons to the created XML pages
 }
